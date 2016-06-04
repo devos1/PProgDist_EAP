@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="PProgDist_EAP">
+        <wb-resource deploy-path="/" source-path="/EarContent" tag="defaultRootSource"/>
+        <dependent-module archiveName="PProgDist_EAPAppClient.jar" deploy-path="/" handle="module:/resource/PProgDist_EAPAppClient/PProgDist_EAPAppClient">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="PProgDist_EAPWeb.war" deploy-path="/" handle="module:/resource/PProgDist_EAPWeb/PProgDist_EAPWeb">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+        <dependent-module archiveName="PProgDist_EAPEJB.jar" deploy-path="/" handle="module:/resource/PProgDist_EAPEJB/PProgDist_EAPEJB">
+            <dependent-object/>
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
