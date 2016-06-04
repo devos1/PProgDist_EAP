@@ -1,2 +1,2 @@
 # PProgDist_EAR
-Project Java EAR dans le cadre du cours PProgDist @Heig-Vd
+Projet Java EAR dans le cadre du cours PProgDist @Heig-Vd
